@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1743951348483,
+      "tag": "0000_melodic_master_chief",
+      "breakpoints": true
+    }
+  ]
+}
